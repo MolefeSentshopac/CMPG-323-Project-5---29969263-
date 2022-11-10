@@ -1,0 +1,1 @@
+{"version":"1.0","connections":[{"details":{"protocol":"tds","address":{"server":"sql-project3-server.database.windows.net","database":"sqldb-project3"}},"mode":"DirectQuery"}]}

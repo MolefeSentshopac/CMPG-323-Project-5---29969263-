@@ -1,11 +1,10 @@
-# CMPG-323-Project-5---29969263-
-
-Working on this project we will be touching on the Connected Office Initiative and all its related topics.
+<h1>CMPG-323-Project-5</h1> 
+<p>
+  Working on this project we will be touching on the Connected Office Initiative and all its related topics.
 This topic branches into many but mainly consists of the main idea of introducing IoT devices into the workplace environment.
 
-
 REFERENCE LIST
-REFERENCES 
+REFERENCES
 
 Introduction to Power BI - Training | Microsoft Learn
 Data Visualisation | Microsoft Power BI
@@ -33,6 +32,3 @@ https://www.bing.com/search?q=power+bi+recommended+practices&FORM=QSRE2
 Power BI Development Best Practices - Microsoft Power BI Community
 https://www.youtube.com/watch?v=kiVXI7zjSzY
 https://www.youtube.com/watch?v=TnyRsO4NJPc
-
-
-
